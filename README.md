@@ -8,6 +8,12 @@ BookShelf-API is an API that allows it users to do these following things:
 
 The BookShelf-API saves the book's datas in memory and haven't use any database, so it will lose it's data when the it restarted or shut down. This project is made in order to pass Dicoding's Beginner BackEnd Development Course.
 
+## Live Demo
+https://jordy-bookshelf-api.herokuapp.com/
+  
+Note:  
+This is just the base url for the api deployed at heroku. As for the front end application, it will be developed in the future.
+
 ## Setup
 ### Installation
     git clone https://github.com/jordyf15/BookShelf-API-Dicoding-Beginner-BackEnd-Development-Project.git
