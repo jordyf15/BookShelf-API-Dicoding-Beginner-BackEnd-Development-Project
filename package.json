@@ -5,14 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node ./src/server.js",
-    "dev":"nodemon ./src/server.js"
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^20.1.2",
+    "dotenv": "^16.0.0",
     "nanoid": "^3.1.22"
   },
   "devDependencies": {
